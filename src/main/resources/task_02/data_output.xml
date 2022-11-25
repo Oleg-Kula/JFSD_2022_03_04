@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<amounts>
+  <from_max_to_min>
+    <DRUNK>4500.0</DRUNK>
+    <BELT>800.0</BELT>
+    <SPEEDING>680.0</SPEEDING>
+  </from_max_to_min>
+</amounts>

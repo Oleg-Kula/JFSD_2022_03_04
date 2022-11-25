@@ -1,0 +1,23 @@
+[
+  {
+    "date_time": "2022-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 340.00
+  },
+  {
+    "date_time": "2022-03-01 21:39:03",
+    "first_name": "Petro",
+    "last_name": "Petrov",
+    "type": "BELT",
+    "fine_amount": 200.00
+  },
+  {
+    "date_time": "2022-03-01 21:39:03",
+    "first_name": "Petro",
+    "last_name": "Petrov",
+    "type": "BELT",
+    "fine_amount": 200.00
+  }
+]
